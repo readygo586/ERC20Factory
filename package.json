@@ -1,0 +1,20 @@
+{
+  "name": "ERC20Factory",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/readygo586/ERC20Factory.git",
+  "author": "rogan <readygo586@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-ethers": "^3.0.8",
+    "@nomicfoundation/hardhat-ignition": "^0.15.11",
+    "@nomicfoundation/hardhat-ignition-ethers": "^0.15.11",
+    "@nomicfoundation/hardhat-verify": "^2.0.13",
+    "@nomicfoundation/ignition-core": "^0.15.11",
+    "ethers": "^6.14.1",
+    "hardhat": "^2.24.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.3.0"
+  }
+}
